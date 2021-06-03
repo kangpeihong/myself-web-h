@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  user-select:none
+}
+
+ul,ol{
+  list-style: none;
+  margin: 0;
+}
+.common-width{
+  width:1180px;
+  margin: 0 auto;
+}
+
+.clearfix:before,.clearfix:after {
+  content:''; 
+  display:block; 
+  clear:both; 
+  height:0; 
+  overflow:hidden; 
+  visibility:hidden; 
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
