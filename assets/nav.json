@@ -1,0 +1,34 @@
+{
+  "navList":[
+    {
+      "id": "0",
+      "name": "Home",
+      "children":[
+        {
+          "id": "0-1",
+          "name": "more"
+        },
+        {
+          "id":"0-2",
+          "name":"morenew"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Introduce"
+    },
+    {
+      "id": "2",
+      "name": "About"
+    },
+    {
+      "id": "3",
+      "name": "Project"
+    },
+    {
+      "id": "4",
+      "name": "Concact"
+    }
+  ]
+}
